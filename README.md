@@ -4,6 +4,10 @@ An AI-native Mini CRM for consumer brands to reach their shoppers through intell
 
 Built as part of Xeno's Engineering Internship Assignment — June 2026.
 
+**Live app:** [brewco-copilot.vercel.app](https://brewco-copilot.vercel.app)
+**Backend API:** [campaign-copilot-production.up.railway.app](https://campaign-copilot-production.up.railway.app)
+**Channel stub:** [outstanding-victory-production-8ff8.up.railway.app](https://outstanding-victory-production-8ff8.up.railway.app)
+
 ---
 
 ## What it does
